@@ -1,0 +1,7 @@
+C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\bin\Release\3DRayCastingNew.exe.config
+C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\bin\Release\3DRayCastingNew.exe
+C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\bin\Release\3DRayCastingNew.pdb
+C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\obj\Release\3DRayCastingNew.csproj.CoreCompileInputs.cache
+C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\obj\Release\3DRayCastingNew.exe
+C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\obj\Release\3DRayCastingNew.pdb
+C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\obj\Release\3DRayCastingNew.csprojAssemblyReference.cache

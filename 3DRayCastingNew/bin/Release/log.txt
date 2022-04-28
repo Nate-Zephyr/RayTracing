@@ -1,0 +1,1690 @@
+﻿06.04.2021 13:21:45
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:45
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:46
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:46
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:46
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:46
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:47
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:47
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:47
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:47
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:48
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:48
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:48
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:48
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:48
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:48
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:49
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:49
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:49
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:49
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:49
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:49
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:49
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:50
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:50
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:50
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:50
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:50
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:50
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:51
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:51
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:51
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:51
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:51
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:51
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:52
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:52
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:52
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:52
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:52
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:52
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:53
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:53
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:53
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:53
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:53
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:54
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:54
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:54
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:54
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:54
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:55
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:55
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:55
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:55
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:55
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:55
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:56
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:56
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:56
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:56
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:56
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:56
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:57
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:57
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:57
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:57
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:57
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:58
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:58
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:58
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:58
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:58
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:59
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:59
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:59
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:59
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:21:59
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:22:00
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:22:00
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:22:00
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:22:00
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:22:00
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:22:01
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:22:01
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:22:01
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:22:01
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:22:01
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:22:02
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:22:02
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:22:02
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:22:02
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:22:02
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:22:02
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:22:03
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+06.04.2021 13:22:03
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+09.05.2021 18:10:04
+Ошибка при рендере 3D:
+System.IndexOutOfRangeException: Индекс находился вне границ массива.
+   в _3DRayCastingNew.Game.TraceRay(Int32 i, Int32 j, List`1 GameObjects, Vec3 light, Vec3 cameraPosition, Mat3 cameraRotation, Double fov) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 228
+   в _3DRayCastingNew.Game.<>c__DisplayClass18_2.<Render3D>b__0() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 186
+   в System.Threading.Tasks.Task.InnerInvoke()
+   в System.Threading.Tasks.Task.Execute()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в _3DRayCastingNew.Game.<Render3D>d__18.MoveNext() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 193
+
+
+09.05.2021 18:10:04
+Ошибка при обновлении экрана:
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 148
+
+
+09.05.2021 18:10:49
+Ошибка при рендере 3D:
+System.IndexOutOfRangeException: Индекс находился вне границ массива.
+   в _3DRayCastingNew.Game.TraceRay(Int32 i, Int32 j, List`1 GameObjects, Vec3 light, Vec3 cameraPosition, Mat3 cameraRotation, Double fov) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 228
+   в _3DRayCastingNew.Game.<>c__DisplayClass18_2.<Render3D>b__0() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 186
+   в System.Threading.Tasks.Task.InnerInvoke()
+   в System.Threading.Tasks.Task.Execute()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в _3DRayCastingNew.Game.<Render3D>d__18.MoveNext() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 193
+
+
+09.05.2021 18:11:03
+Ошибка при обновлении экрана:
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 148
+
+
+12.05.2021 12:49:37
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:37
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:37
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:37
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:37
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:37
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:37
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:38
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:38
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:38
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:38
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:38
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:38
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:39
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:39
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:39
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:39
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:39
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:39
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:39
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:40
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:40
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:40
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:40
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:40
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:40
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:40
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+12.05.2021 12:49:41
+Ошибка при обновлении экрана:
+System.InvalidOperationException: Недопустимая операция в нескольких потоках: попытка доступа к элементу управления '' не из того потока, в котором он был создан.
+   в System.Windows.Forms.Control.get_Handle()
+   в System.Windows.Forms.Control.set_WindowText(String value)
+   в System.Windows.Forms.Form.set_WindowText(String value)
+   в System.Windows.Forms.Control.set_Text(String value)
+   в System.Windows.Forms.Form.set_Text(String value)
+   в _3DRayCastingNew.DoubleBufferedForm.SetName(String name) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 21
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 151
+
+
+27.08.2021 22:18:54
+Ошибка при рендере 3D:
+System.IndexOutOfRangeException: Индекс находился вне границ массива.
+   в _3DRayCastingNew.Game.TraceRay(Int32 i, Int32 j, List`1 GameObjects, Vec3 light, Vec3 cameraPosition, Mat3 cameraRotation, Double fov) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 228
+   в _3DRayCastingNew.Game.<>c__DisplayClass18_2.<Render3D>b__0() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 186
+   в System.Threading.Tasks.Task.InnerInvoke()
+   в System.Threading.Tasks.Task.Execute()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в _3DRayCastingNew.Game.<Render3D>d__18.MoveNext() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 193
+
+
+27.08.2021 22:18:58
+Ошибка при рендере 3D:
+System.IndexOutOfRangeException: Индекс находился вне границ массива.
+   в _3DRayCastingNew.Game.TraceRay(Int32 i, Int32 j, List`1 GameObjects, Vec3 light, Vec3 cameraPosition, Mat3 cameraRotation, Double fov) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 228
+   в _3DRayCastingNew.Game.<>c__DisplayClass18_2.<Render3D>b__0() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 186
+   в System.Threading.Tasks.Task.InnerInvoke()
+   в System.Threading.Tasks.Task.Execute()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в _3DRayCastingNew.Game.<Render3D>d__18.MoveNext() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 193
+
+
+27.08.2021 22:19:14
+Ошибка при обновлении экрана:
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 148
+
+
+27.08.2021 22:20:23
+Ошибка при рендере 3D:
+System.IndexOutOfRangeException: Индекс находился вне границ массива.
+   в _3DRayCastingNew.Game.TraceRay(Int32 i, Int32 j, List`1 GameObjects, Vec3 light, Vec3 cameraPosition, Mat3 cameraRotation, Double fov) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 228
+   в _3DRayCastingNew.Game.<>c__DisplayClass18_2.<Render3D>b__0() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 186
+   в System.Threading.Tasks.Task.InnerInvoke()
+   в System.Threading.Tasks.Task.Execute()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в _3DRayCastingNew.Game.<Render3D>d__18.MoveNext() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 193
+
+
+27.08.2021 22:20:23
+Ошибка при обновлении экрана:
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 148
+
+
+28.04.2022 20:38:32
+Ошибка при обновлении экрана:
+System.ArgumentException: Значение '-2147483648' недопустимо для 'red'. 'red' должно быть больше или равно 0 и меньше или равно 255.
+   в System.Drawing.Color.CheckByte(Int32 value, String name)
+   в System.Drawing.Color.FromArgb(Int32 alpha, Int32 red, Int32 green, Int32 blue)
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 148
+
+
+28.04.2022 20:54:01
+Ошибка при рендере 3D:
+System.IndexOutOfRangeException: Индекс находился вне границ массива.
+   в _3DRayCastingNew.Game.TraceRay(Int32 i, Int32 j, List`1 GameObjects, Vec3 light, Vec3 cameraPosition, Mat3 cameraRotation, Double fov) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 228
+   в _3DRayCastingNew.Game.<>c__DisplayClass18_2.<Render3D>b__0() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 186
+   в System.Threading.Tasks.Task.InnerInvoke()
+   в System.Threading.Tasks.Task.Execute()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в _3DRayCastingNew.Game.<Render3D>d__18.MoveNext() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 193
+
+
+28.04.2022 20:54:01
+Ошибка при обновлении экрана:
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 148
+
+
+28.04.2022 20:54:07
+Ошибка при рендере 3D:
+System.IndexOutOfRangeException: Индекс находился вне границ массива.
+   в _3DRayCastingNew.Game.TraceRay(Int32 i, Int32 j, List`1 GameObjects, Vec3 light, Vec3 cameraPosition, Mat3 cameraRotation, Double fov) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 228
+   в _3DRayCastingNew.Game.<>c__DisplayClass18_2.<Render3D>b__0() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 186
+   в System.Threading.Tasks.Task.InnerInvoke()
+   в System.Threading.Tasks.Task.Execute()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в _3DRayCastingNew.Game.<Render3D>d__18.MoveNext() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 193
+
+
+28.04.2022 20:54:07
+Ошибка при обновлении экрана:
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 148
+
+
+28.04.2022 20:54:13
+Ошибка при обновлении экрана:
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 148
+
+
+28.04.2022 20:54:19
+Ошибка при обновлении экрана:
+System.ArgumentOutOfRangeException: Параметр должен быть положительным и меньше ширины.
+Имя параметра: x
+   в System.Drawing.Bitmap.SetPixel(Int32 x, Int32 y, Color color)
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 148
+
+
+28.04.2022 20:54:23
+Ошибка при обновлении экрана:
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 148
+
+
+28.04.2022 20:54:34
+Ошибка при обновлении экрана:
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 148
+
+
+28.04.2022 20:54:43
+Ошибка при рендере 3D:
+System.IndexOutOfRangeException: Индекс находился вне границ массива.
+   в _3DRayCastingNew.Game.TraceRay(Int32 i, Int32 j, List`1 GameObjects, Vec3 light, Vec3 cameraPosition, Mat3 cameraRotation, Double fov) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 228
+   в _3DRayCastingNew.Game.<>c__DisplayClass18_2.<Render3D>b__0() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 186
+   в System.Threading.Tasks.Task.InnerInvoke()
+   в System.Threading.Tasks.Task.Execute()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в _3DRayCastingNew.Game.<Render3D>d__18.MoveNext() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 193
+
+
+28.04.2022 20:54:43
+Ошибка при обновлении экрана:
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 148
+
+
+28.04.2022 20:55:12
+Ошибка при обновлении экрана:
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 148
+
+
+28.04.2022 20:55:25
+Ошибка при рендере 3D:
+System.IndexOutOfRangeException: Индекс находился вне границ массива.
+   в _3DRayCastingNew.Game.TraceRay(Int32 i, Int32 j, List`1 GameObjects, Vec3 light, Vec3 cameraPosition, Mat3 cameraRotation, Double fov) в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 228
+   в _3DRayCastingNew.Game.<>c__DisplayClass18_2.<Render3D>b__0() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 186
+   в System.Threading.Tasks.Task.InnerInvoke()
+   в System.Threading.Tasks.Task.Execute()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в _3DRayCastingNew.Game.<Render3D>d__18.MoveNext() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 193
+
+
+28.04.2022 20:55:44
+Ошибка при обновлении экрана:
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 148
+
+
+28.04.2022 20:56:26
+Ошибка при обновлении экрана:
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в _3DRayCastingNew.Game.DrawFrame() в C:\Users\Nate Zephyr\source\repos\3DRayCastingNew\Game.cs:строка 148
+
+
